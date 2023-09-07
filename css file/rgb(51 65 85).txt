@@ -1,0 +1,9 @@
+rgb(51 65 85)
+ rgb(30 41 59)
+ #06b6d4 , #3b82f6; > facebook
+
+  rgb(30 41 59)
+
+rgb(216 180 254) > words-color
+
+ rgb(147 51 234) tag-color
